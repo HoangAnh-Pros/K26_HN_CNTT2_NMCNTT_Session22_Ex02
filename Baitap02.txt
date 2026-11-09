@@ -1,0 +1,14 @@
+Bài 2 : Xử lý lỗi thư viện mã nguồn mở bằng Github Issues
+* Vấn đề : thư viện mã nguồn mở mới nhất bị lỗi ngay khi chạy dự án ,bạn lên ithub issues để tham gia 1 cuộc thảo luận với trạng thái OPEN
+-> có nhiều ng bình luận trái triều. Một số người bảo xóa đi tải lại một số người đưa ra 1 đoạn mã dài
+* Yêu cầu : 
+1.1 Dựa trên kiến thức về Github Issues, bạn sẽ được ưu tiên các bình luận có đặc điểm gì.
+1.2 Giải thích khái niệm Workaround trong trg hợp này và tại sao không nên đợi bản cập nhất chính thưc từ nhà sx ngay lúc đó
+* Cách giải quyết bài toán.
+** Vấn đề : 
+1.1 
+--> Nên ưu tiên những bình luận có nhiều Thumbs up và hearts bời vì đây là biểu hiện của những lập trình viên đã gặp lỗi tương ứng và đã khắc phục được sự cố
+1.2
+--> Khái niệm Workaround : "workaround" được hiểu là 1 giải pháp tạm thời ,được sử dụng để thay thế,khắc phục sự cố 
+.
+--> lý do không nên đợi bản vá của NSX : Bởi vì mất nhiều thời gian hơn nếu chúng ta dùng giải pháp tạm thời .Nó có thể ánh hưởng đến tiến độ dự án.
